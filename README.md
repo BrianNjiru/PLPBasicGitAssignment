@@ -17,7 +17,7 @@ I logged into my Github account and created a repository named "PLPBasicGitAssig
  
 I created a local folder named PlPAssignment and initialised a new git repository in it using `git init`. 
 
-I then linked the github repository that was created in step one to the local repository using  `git remote add origin <repository-url>`, with <repository-url> being the current github repository.
+I then linked the github repository that was created in step one to the local repository using  `git remote add origin <repository-url>`, with "repository-url" being the current github repository.
 
 
 #3.Making changes.
